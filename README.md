@@ -12,6 +12,7 @@ I have written the majority of this project on my own with the help of the occas
 Allow player to select who they wish to talk to, (world or game)
 Allow user to enter a Username and communicate with it.
 Add more flexible way of limiting number of connections.
+Check for Checks and Check Mates
 
 ##Current Issues:
 If players disconnect in rapid succession the server can throw an error. Hard to reproduce.
